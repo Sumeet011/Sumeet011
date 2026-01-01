@@ -43,9 +43,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumeet011&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=Sumeet011&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies" />
-</div>
+  <a href="https://github.com/Sumeet_Sharma/github-readme-stats">
+   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Sumeet011">
+</a></div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumeet011&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
