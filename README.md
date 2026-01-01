@@ -43,9 +43,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Sumeet_Sharma/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Sumeet011">
-</a></div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)  
+</div>
 
 
 <div align="center">
