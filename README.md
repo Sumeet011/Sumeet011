@@ -46,9 +46,4 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumeet011&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet011&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
 ###
